@@ -1,0 +1,17 @@
+﻿  Character.cpp
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(7,97): warning C4091: 'typedef ' : ignoré à gauche de 'Attribute' quand aucune variable n'est déclarée
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(9,36): warning C4091: 'typedef ' : ignoré à gauche de 'Status' quand aucune variable n'est déclarée
+  Minitel_game1.cpp
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(7,97): warning C4091: 'typedef ' : ignoré à gauche de 'Attribute' quand aucune variable n'est déclarée
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(9,36): warning C4091: 'typedef ' : ignoré à gauche de 'Status' quand aucune variable n'est déclarée
+  Squad.cpp
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(7,97): warning C4091: 'typedef ' : ignoré à gauche de 'Attribute' quand aucune variable n'est déclarée
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Character.h(9,36): warning C4091: 'typedef ' : ignoré à gauche de 'Status' quand aucune variable n'est déclarée
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Squad.cpp(5,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Squad.cpp(14,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Squad.cpp(22,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Squad.cpp(31,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Squad.cpp(18): warning C4715: 'Squad::get_member' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\baptiste.kissel\source\repos\Minitel_game1\Minitel_game1\Minitel_game1.cpp(125): warning C4715: 'checker' : les chemins de contrôle ne retournent pas tous une valeur
+  Minitel_game1.vcxproj -> C:\Users\baptiste.kissel\source\repos\Minitel_game1\Debug\Minitel_game1.exe
